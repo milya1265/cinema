@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cinemateque</string>
+    <string name="settings_button">Settings</string>
+    <string name="preview_text">Preview Text</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="todo">TODO</string>
+    <string name="enter_interesting_film">Enter interesting film</string>
+    <string name="hello_client">Hello, </string>
+    <string name="back_button">Back</string>
+    <string name="settings_title">Settings</string>
+    <string name="apply_button">Apply</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_button">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_you_email">Enter you email</string>
+    <string name="enter_you_password">Enter you password</string>
+    <string name="name">Название</string>
+    <string name="filminfo">FilmInfo</string>
+    <string name="get_notification_button">Get notification!</string>
+    <string name="testdata">TestData</string>
+    <string name="get_service_button">Get service!</string>
+    <string name="service_overlay_text">Tap me please c:</string>
+    <string name="desc_poster">Poster of film</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="create_files">create files</string>
+    <string name="new_film">New film</string>
+    <string name="enter_film_name">Enter film name</string>
+    <string name="upload">Upload</string>
+    <string name="error_zero_length">Length in 0!</string>
+    <string name="USER_NAME"></string>
+    <string name="enter_the_name_of_the_movie">Enter the name of the movie</string>
+    <string name="number_template">+7 (999) 999 - 99 - 99</string>
+    <string name="click">click</string>
+    <string name="uri_film">https://www.kinopoisk.ru/film/333/</string>
+</resources>
