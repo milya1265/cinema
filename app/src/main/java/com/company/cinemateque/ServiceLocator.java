@@ -1,9 +1,9 @@
-package com.ctacekscompany.cinemateque;
+package com.company.cinemateque;
 
 import android.content.Context;
 
-import com.ctacekscompany.cinemateque.data.repositories.FilmsRepository;
-import com.ctacekscompany.cinemateque.data.repositories.PreferencesRepository;
+import com.company.cinemateque.data.repositories.FilmsRepository;
+import com.company.cinemateque.data.repositories.PreferencesRepository;
 
 public class ServiceLocator {
     private FilmsRepository filmsRepository = null;

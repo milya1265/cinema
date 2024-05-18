@@ -1,7 +1,6 @@
-package com.ctacekscompany.cinemateque.ui.adapters;
+package com.company.cinemateque.ui.adapters;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,8 +14,8 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.company.cinemateque.data.models.Film;
 import com.ctacekscompany.cinemateque.R;
-import com.ctacekscompany.cinemateque.data.models.Film;
 
 import java.util.ArrayList;
 import java.util.List;

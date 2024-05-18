@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.data.datasources;
+package com.company.cinemateque.data.datasources;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.data.repositories;
+package com.company.cinemateque.data.repositories;
 
 import android.content.Context;
 import android.os.Handler;
@@ -9,10 +9,10 @@ import android.widget.Toast;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Transformations;
 
-import com.ctacekscompany.cinemateque.data.models.Film;
-import com.ctacekscompany.cinemateque.data.models.FilmEntity;
-import com.ctacekscompany.cinemateque.data.datasources.room.FilmRoomDatabase;
-import com.ctacekscompany.cinemateque.data.datasources.room.FilmDao;
+import com.company.cinemateque.data.datasources.room.FilmRoomDatabase;
+import com.company.cinemateque.data.models.Film;
+import com.company.cinemateque.data.models.FilmEntity;
+import com.company.cinemateque.data.datasources.room.FilmDao;
 
 import java.util.List;
 import java.util.stream.Collectors;

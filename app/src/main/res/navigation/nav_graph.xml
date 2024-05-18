@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.FilmListFragment"
+        android:name="com.company.cinemateque.ui.fragments.FilmListFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_filmlist2" >
         <action
@@ -37,7 +37,7 @@
     </fragment>
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.LoginFragment"
+        android:name="com.company.cinemateque.ui.fragments.LoginFragment"
         android:label="LoginFragment"
         tools:layout="@layout/fragment_login">
         <action
@@ -55,7 +55,7 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.SettingsFragment"
+        android:name="com.company.cinemateque.ui.fragments.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" >
         <action
@@ -67,7 +67,7 @@
     </fragment>
     <fragment
         android:id="@+id/filmDetailsFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.FilmDetailsFragment"
+        android:name="com.company.cinemateque.ui.fragments.FilmDetailsFragment"
         android:label="fragment_filminfo"
         tools:layout="@layout/fragment_filmdetails" >
         <action
@@ -79,7 +79,7 @@
     </fragment>
     <fragment
         android:id="@+id/registrationFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.RegistrationFragment"
+        android:name="com.company.cinemateque.ui.fragments.RegistrationFragment"
         android:label="fragment_registration"
         tools:layout="@layout/fragment_registration" >
         <action
@@ -91,7 +91,7 @@
     </fragment>
     <fragment
         android:id="@+id/newFilmFragment"
-        android:name="com.ctacekscompany.cinemateque.ui.fragments.NewFilmFragment"
+        android:name="com.company.cinemateque.ui.fragments.NewFilmFragment"
         android:label="fragment_newfilm"
         tools:layout="@layout/fragment_newfilm" />
 </navigation>

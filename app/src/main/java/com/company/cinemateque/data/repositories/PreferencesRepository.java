@@ -1,8 +1,8 @@
-package com.ctacekscompany.cinemateque.data.repositories;
+package com.company.cinemateque.data.repositories;
 
 import android.content.Context;
 
-import com.ctacekscompany.cinemateque.data.datasources.MySharedPreferences;
+import com.company.cinemateque.data.datasources.MySharedPreferences;
 
 public class PreferencesRepository {
 

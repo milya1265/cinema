@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.data.datasources.room;
+package com.company.cinemateque.data.datasources.room;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
@@ -6,7 +6,7 @@ import androidx.room.Insert;
 import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 
-import com.ctacekscompany.cinemateque.data.models.FilmEntity;
+import com.company.cinemateque.data.models.FilmEntity;
 
 import java.util.List;
 

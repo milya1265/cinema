@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.ui.fragments;
+package com.company.cinemateque.ui.fragments;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -10,8 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.company.cinemateque.ServiceLocator;
 import com.ctacekscompany.cinemateque.R;
-import com.ctacekscompany.cinemateque.ServiceLocator;
 import com.ctacekscompany.cinemateque.databinding.FragmentSettingsBinding;
 
 

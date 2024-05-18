@@ -1,12 +1,9 @@
-package com.ctacekscompany.cinemateque.ui.fragments;
+package com.company.cinemateque.ui.fragments;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
-import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,21 +11,9 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.work.OneTimeWorkRequest;
-import androidx.work.WorkManager;
 
-import com.ctacekscompany.cinemateque.FilmWorker;
 import com.ctacekscompany.cinemateque.R;
 import com.ctacekscompany.cinemateque.databinding.FragmentFilmdetailsBinding;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.Callable;
-import java.util.concurrent.Executor;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
-import java.util.concurrent.ThreadPoolExecutor;
 
 
 public class FilmDetailsFragment extends Fragment {

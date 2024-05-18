@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.ui;
+package com.company.cinemateque.ui;
 
 import android.os.Bundle;
 

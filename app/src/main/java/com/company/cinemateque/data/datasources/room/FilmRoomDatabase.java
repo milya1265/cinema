@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.data.datasources.room;
+package com.company.cinemateque.data.datasources.room;
 
 import android.content.Context;
 
@@ -9,7 +9,7 @@ import androidx.room.RoomDatabase;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
 import com.ctacekscompany.cinemateque.R;
-import com.ctacekscompany.cinemateque.data.models.FilmEntity;
+import com.company.cinemateque.data.models.FilmEntity;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;

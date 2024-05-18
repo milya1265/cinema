@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.data.models;
+package com.company.cinemateque.data.models;
 
 import java.util.Objects;
 

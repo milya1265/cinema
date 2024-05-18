@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.ui.fragments;
+package com.company.cinemateque.ui.fragments;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -11,11 +11,11 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.Navigation;
 
+import com.company.cinemateque.ServiceLocator;
+import com.company.cinemateque.data.repositories.FilmsRepository;
 import com.ctacekscompany.cinemateque.R;
-import com.ctacekscompany.cinemateque.ServiceLocator;
 import com.ctacekscompany.cinemateque.databinding.FragmentNewfilmBinding;
-import com.ctacekscompany.cinemateque.data.models.FilmEntity;
-import com.ctacekscompany.cinemateque.data.repositories.FilmsRepository;
+import com.company.cinemateque.data.models.FilmEntity;
 
 import java.util.ArrayList;
 

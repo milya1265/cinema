@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.ui.fragments;
+package com.company.cinemateque.ui.fragments;
 
 
 import androidx.annotation.NonNull;
@@ -16,16 +16,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.appcompat.widget.SearchView;
 
-import com.ctacekscompany.cinemateque.ServiceLocator;
-import com.ctacekscompany.cinemateque.data.models.Film;
-import com.ctacekscompany.cinemateque.ui.adapters.FilmsAdapter;
+import com.company.cinemateque.ui.adapters.FilmsAdapter;
 
 import com.ctacekscompany.cinemateque.R;
 
 import com.ctacekscompany.cinemateque.databinding.FragmentFilmlistBinding;
-import com.ctacekscompany.cinemateque.ui.viewmodels.FilmListViewModel;
-
-import java.util.function.Predicate;
+import com.company.cinemateque.ui.viewmodels.FilmListViewModel;
 
 
 public class FilmListFragment extends Fragment {

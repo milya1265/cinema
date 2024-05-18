@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque.services;
+package com.company.cinemateque.services;
 
 import android.annotation.SuppressLint;
 import android.app.Service;
@@ -13,7 +13,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.ctacekscompany.cinemateque.ui.MainActivity;
+import com.company.cinemateque.ui.MainActivity;
 import com.ctacekscompany.cinemateque.R;
 
 public class OverlayService extends Service {

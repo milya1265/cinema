@@ -1,4 +1,4 @@
-package com.ctacekscompany.cinemateque;
+package com.company.cinemateque;
 
 import android.content.Context;
 import android.util.Log;
